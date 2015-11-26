@@ -32,7 +32,7 @@ theme: sudodoki/reveal-cleaver-theme
 
 * The Polymer library is designed to make it easier and faster for developers to create great, reusable components for the modern web.
 
-* Utilizes web compoents for building elements and eventually applications.
+* Utilizes web components for building elements and eventually applications.
 
 ```
 <my-tabstrip>
@@ -54,7 +54,7 @@ theme: sudodoki/reveal-cleaver-theme
 
 * With Polymer the framework is DOM.
 	* The component model is Custom Elements.
-	* Scoping provided by Shadow DOM.
+	* Scoping provided by Shady/Shadow DOM.
 * Web components are really low-level by design.
 * Polymer is a sugaring layer to build your own element sets and applications with.
 
